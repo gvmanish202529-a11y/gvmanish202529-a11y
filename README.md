@@ -145,24 +145,33 @@ Innovation
 </div>
 
 
-# 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🤖 DustNet-AI</h3>
 
 <a href="https://github.com/gvmanish202529-a11y/DustNet-AI">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gvmanish202529-a11y&repo=DustNet-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9" />
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gvmanish202529-a11y&repo=DustNet-AI&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🚚 Odoo-Transitops</h3>
 
 <a href="https://github.com/gvmanish202529-a11y/Odoo-Transitops">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gvmanish202529-a11y&repo=Odoo-Transitops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9" />
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gvmanish202529-a11y&repo=Odoo-Transitops&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</td>
 
+</tr>
+</table>
 
 ## 🤖 DustNet-AI
 
